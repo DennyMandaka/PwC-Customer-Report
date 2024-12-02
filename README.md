@@ -1,4 +1,4 @@
-# PwC-Customer-Report
+# PwC Switzerland Customer Report
 ## Project Objective
 This project is part of a Job Simulation Program by PwC Switzerland, designed to simulate real-world business scenarios. It provided an opportunity to analyze customer data, derive actionable insights, and create an interactive Power BI dashboard. By focusing on customer segmentation, loyalty metrics, and key performance indicators (KPIs), this simulation helped me enhance my data analysis, problem-solving, and visualization skills, mirroring the requirements of professional roles in business intelligence and analytics. 
 
