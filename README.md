@@ -18,10 +18,9 @@ Step 3: Visualization and Dashboard Creation
 - Designed interactive dashboards in Power BI to visualize key metrics.
 - Included Slicers to allow filtering by tenure, loyalty categories, and demographics for enhanced user interactivity.
 - Used intuitive charts and visuals to communicate insights effectively, ensuring the dashboard was accessible and actionable for stakeholders.
-- The interactive report pages in Power BI appear as shown <a href="https://github.com/DennyMandaka/PwC-Switzerland-Call-Center-Analysis/blob/main/PwC%20Call%20Center%20Analysis.png">here</a>. The complete Power BI file can be accessed <a href="https://github.com/DennyMandaka/PwC-Switzerland-Call-Center-Analysis/blob/main/PwC%20Call%20Center%20Analysis.pbix">here</a>.
+- The interactive report pages in Power BI appear as shown <a href="https://github.com/DennyMandaka/PwC-Switzerland-Customer-Report/blob/main/PwC%20Customer%20Report.png">here</a>. The complete Power BI file can be accessed <a href="https://github.com/DennyMandaka/PwC-Switzerland-Customer-Report/blob/main/PwC%20Customer%20Report.pbix">here</a>.
 
 ## Insights and Conclusion
 - This project enhanced my ability to analyze customer behavior and derive meaningful insights from loyalty metrics and KPIs.
 - It deepened my understanding of how customer segmentation can inform targeted marketing strategies and operational decisions.
 - Hands-on experience with real-world datasets improved my technical skills in Power BI, DAX, and data transformation.
-
